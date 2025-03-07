@@ -1,0 +1,41 @@
+{
+  "app": {
+    "title": "Pashto++",
+    "description": "A beginner-friendly, JavaScript-inspired programming language with Pashto keywords"
+  },
+  "editor": {
+    "placeholder": "Write your Pashto++ code here...",
+    "run": "Run",
+    "output": "Output"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "language": {
+    "english": "English",
+    "pashto": "پښتو"
+  },
+  "footer": {
+    "copyright": "Pashto++ © 2025"
+  },
+  "examples": {
+    "title": "Examples",
+    "hello": "Hello World",
+    "counter": "Counter",
+    "factorial": "Factorial"
+  },
+  "keywords": {
+    "if": "ko",
+    "else": "geni",
+    "while": "kala",
+    "for": "che",
+    "in": "we",
+    "function": "opejana",
+    "return": "raka",
+    "print": "olika",
+    "input": "oghwara",
+    "true": "rishtia",
+    "false": "ghalat"
+  }
+}

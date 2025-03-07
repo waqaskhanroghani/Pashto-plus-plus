@@ -1,0 +1,41 @@
+{
+  "app": {
+    "title": "پښتو++",
+    "description": "د پښتو کلیماتو سره د جاواسکریپټ په څېر یو ساده پروګرامنګ ژبه"
+  },
+  "editor": {
+    "placeholder": "پښتو++ وليکه...",
+    "run": "چل",
+    "output": "پایله"
+  },
+  "theme": {
+    "light": "روښانه",
+    "dark": "تیاره"
+  },
+  "language": {
+    "english": "English",
+    "pashto": "پښتو"
+  },
+  "footer": {
+    "copyright": "پښتو++ © ٢٠٢٥"
+  },
+  "examples": {
+    "title": "مثالونه",
+    "hello": "سلام نړۍ",
+    "counter": "شمېرونکی",
+    "factorial": "فکتوریل"
+  },
+  "keywords": {
+    "if": "که",
+    "else": "ګني",
+    "while": "کله",
+    "for": "چې",
+    "in": "وې",
+    "function": "اوپيجنه",
+    "return": "راکه",
+    "print": "وليکه",
+    "input": "اوغواره",
+    "true": "ريښتيا",
+    "false": "غلط"
+  }
+}

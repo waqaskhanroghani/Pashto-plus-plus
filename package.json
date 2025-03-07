@@ -1,0 +1,39 @@
+{
+  "name": "pahtoplusplus",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@codemirror/basic-setup": "^0.20.0",
+    "@codemirror/commands": "^6.8.0",
+    "@codemirror/lang-javascript": "^6.2.3",
+    "@codemirror/language": "^6.10.8",
+    "@codemirror/state": "^6.5.2",
+    "@codemirror/theme-one-dark": "^6.1.2",
+    "@codemirror/view": "^6.36.4",
+    "@fontsource/noto-nastaliq-urdu": "^5.2.5",
+    "codemirror": "^6.0.1",
+    "next": "15.2.2-canary.3",
+    "next-intl": "^3.26.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "shadcn-ui": "^0.9.5",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.2-canary.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
